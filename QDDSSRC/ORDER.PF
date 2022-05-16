@@ -7,5 +7,5 @@
                                             COLHDG('ORDER' 'DATE')
                   ORDATDEL       8  0       TEXT('DELIVERY DATE')
                                             COLHDG('DELIVERY' 'DATE')
-                  ORDATCLO       8  0       TEXT('CLOSE DATE')
+                  ORDATCLO       9  0       TEXT('CLOSE DATE')
                                             COLHDG('CLOSE' 'DATE')
